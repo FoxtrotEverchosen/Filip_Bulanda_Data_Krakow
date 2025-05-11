@@ -1,6 +1,6 @@
 **Project Structure** 
 <pre>
-zadanie_rekr/ 
+Filip_Bulanda_Data_Krakow/ 
 ├── Filip_Bulanda.csv (Part 1 of task)
 ├── Filip_Bulanda_analysis.pdf (Part 2 of task) 
 ├── Filip_Bulanda_research.pdf (Part 3 of task)  
